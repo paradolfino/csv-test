@@ -8,3 +8,5 @@
 ##### 22/04/2018: 22:05 - 22:06:pool[configure products controller]
 
 ##### 22/04/2018: 22:07 - 22:08:pool[configure index view]
+
+##### 22/04/2018: 22:08 - 22:09:pool[configure product model]
