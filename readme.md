@@ -12,3 +12,5 @@
 ##### 22/04/2018: 22:08 - 22:09:pool[configure product model]
 
 ##### 22/04/2018: 22:09 - 22:11:pool[configure mime types]
+
+##### 22/04/2018: 22:11 - 22:14:pool[configure index for excel]
