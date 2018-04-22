@@ -1,1 +1,13 @@
 
+[s]
+### 22/04/2018[21:41 - 22:15]:
+* install/configure postgresql
+* init setup
+* configure application.rb
+* configure products controller
+* configure index view
+* configure product model
+* configure mime types
+* configure index for excel
+* configure routes
+
