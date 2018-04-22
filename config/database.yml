@@ -8,12 +8,12 @@ default: &default
 
 development:
   <<: *default
-  database: app_development
+  database: template1
 
 test:
   <<: *default
-  database: app_test
+  database: template1_test
 
 production:
   <<: *default
-  database: app_production
+  database: template1_production
